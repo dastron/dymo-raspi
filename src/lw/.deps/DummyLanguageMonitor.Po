@@ -1,0 +1,142 @@
+DummyLanguageMonitor.o: ../common/DummyLanguageMonitor.cpp \
+ /usr/include/stdc-predef.h ../common/DummyLanguageMonitor.h \
+ ../common/PrinterDriver.h ../common/CommonTypedefs.h \
+ /usr/include/c++/6/vector /usr/include/c++/6/bits/stl_algobase.h \
+ /usr/include/arm-linux-gnueabihf/c++/6/bits/c++config.h \
+ /usr/include/arm-linux-gnueabihf/c++/6/bits/os_defines.h \
+ /usr/include/features.h /usr/include/arm-linux-gnueabihf/sys/cdefs.h \
+ /usr/include/arm-linux-gnueabihf/bits/wordsize.h \
+ /usr/include/arm-linux-gnueabihf/gnu/stubs.h \
+ /usr/include/arm-linux-gnueabihf/gnu/stubs-hard.h \
+ /usr/include/arm-linux-gnueabihf/c++/6/bits/cpu_defines.h \
+ /usr/include/c++/6/bits/functexcept.h \
+ /usr/include/c++/6/bits/exception_defines.h \
+ /usr/include/c++/6/bits/cpp_type_traits.h \
+ /usr/include/c++/6/ext/type_traits.h \
+ /usr/include/c++/6/ext/numeric_traits.h \
+ /usr/include/c++/6/bits/stl_pair.h /usr/include/c++/6/bits/move.h \
+ /usr/include/c++/6/bits/concept_check.h /usr/include/c++/6/type_traits \
+ /usr/include/c++/6/bits/stl_iterator_base_types.h \
+ /usr/include/c++/6/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/6/debug/assertions.h \
+ /usr/include/c++/6/bits/stl_iterator.h \
+ /usr/include/c++/6/bits/ptr_traits.h /usr/include/c++/6/debug/debug.h \
+ /usr/include/c++/6/bits/predefined_ops.h \
+ /usr/include/c++/6/bits/allocator.h \
+ /usr/include/arm-linux-gnueabihf/c++/6/bits/c++allocator.h \
+ /usr/include/c++/6/ext/new_allocator.h /usr/include/c++/6/new \
+ /usr/include/c++/6/exception \
+ /usr/include/c++/6/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/6/bits/exception_ptr.h \
+ /usr/include/c++/6/bits/nested_exception.h \
+ /usr/include/c++/6/bits/memoryfwd.h \
+ /usr/include/c++/6/bits/stl_construct.h \
+ /usr/include/c++/6/ext/alloc_traits.h \
+ /usr/include/c++/6/bits/alloc_traits.h \
+ /usr/include/c++/6/bits/stl_uninitialized.h \
+ /usr/include/c++/6/bits/stl_vector.h /usr/include/c++/6/initializer_list \
+ /usr/include/c++/6/bits/stl_bvector.h \
+ /usr/include/c++/6/bits/functional_hash.h \
+ /usr/include/c++/6/bits/hash_bytes.h \
+ /usr/include/c++/6/bits/range_access.h \
+ /usr/include/c++/6/bits/vector.tcc
+
+/usr/include/stdc-predef.h:
+
+../common/DummyLanguageMonitor.h:
+
+../common/PrinterDriver.h:
+
+../common/CommonTypedefs.h:
+
+/usr/include/c++/6/vector:
+
+/usr/include/c++/6/bits/stl_algobase.h:
+
+/usr/include/arm-linux-gnueabihf/c++/6/bits/c++config.h:
+
+/usr/include/arm-linux-gnueabihf/c++/6/bits/os_defines.h:
+
+/usr/include/features.h:
+
+/usr/include/arm-linux-gnueabihf/sys/cdefs.h:
+
+/usr/include/arm-linux-gnueabihf/bits/wordsize.h:
+
+/usr/include/arm-linux-gnueabihf/gnu/stubs.h:
+
+/usr/include/arm-linux-gnueabihf/gnu/stubs-hard.h:
+
+/usr/include/arm-linux-gnueabihf/c++/6/bits/cpu_defines.h:
+
+/usr/include/c++/6/bits/functexcept.h:
+
+/usr/include/c++/6/bits/exception_defines.h:
+
+/usr/include/c++/6/bits/cpp_type_traits.h:
+
+/usr/include/c++/6/ext/type_traits.h:
+
+/usr/include/c++/6/ext/numeric_traits.h:
+
+/usr/include/c++/6/bits/stl_pair.h:
+
+/usr/include/c++/6/bits/move.h:
+
+/usr/include/c++/6/bits/concept_check.h:
+
+/usr/include/c++/6/type_traits:
+
+/usr/include/c++/6/bits/stl_iterator_base_types.h:
+
+/usr/include/c++/6/bits/stl_iterator_base_funcs.h:
+
+/usr/include/c++/6/debug/assertions.h:
+
+/usr/include/c++/6/bits/stl_iterator.h:
+
+/usr/include/c++/6/bits/ptr_traits.h:
+
+/usr/include/c++/6/debug/debug.h:
+
+/usr/include/c++/6/bits/predefined_ops.h:
+
+/usr/include/c++/6/bits/allocator.h:
+
+/usr/include/arm-linux-gnueabihf/c++/6/bits/c++allocator.h:
+
+/usr/include/c++/6/ext/new_allocator.h:
+
+/usr/include/c++/6/new:
+
+/usr/include/c++/6/exception:
+
+/usr/include/c++/6/bits/atomic_lockfree_defines.h:
+
+/usr/include/c++/6/bits/exception_ptr.h:
+
+/usr/include/c++/6/bits/nested_exception.h:
+
+/usr/include/c++/6/bits/memoryfwd.h:
+
+/usr/include/c++/6/bits/stl_construct.h:
+
+/usr/include/c++/6/ext/alloc_traits.h:
+
+/usr/include/c++/6/bits/alloc_traits.h:
+
+/usr/include/c++/6/bits/stl_uninitialized.h:
+
+/usr/include/c++/6/bits/stl_vector.h:
+
+/usr/include/c++/6/initializer_list:
+
+/usr/include/c++/6/bits/stl_bvector.h:
+
+/usr/include/c++/6/bits/functional_hash.h:
+
+/usr/include/c++/6/bits/hash_bytes.h:
+
+/usr/include/c++/6/bits/range_access.h:
+
+/usr/include/c++/6/bits/vector.tcc:
